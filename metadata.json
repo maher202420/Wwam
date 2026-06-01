@@ -1,0 +1,8 @@
+{
+  "name": "Remix: دليلي - Dalili",
+  "description": "تطبيق دليلي - Dalili لإدارة وتصفح مقدمي الخدمات والأقسام بشكل حي وبمزامنة فورية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
